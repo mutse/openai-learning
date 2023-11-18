@@ -18,7 +18,7 @@ pip3 install openai gradio soudfile souddevice
 
 ## Usage
 
-You should modify `YOUR_OPENAI_API_KEY` as your `OPEN_API_KEY`, then you can run the programs.
+You should replace `YOUR_OPENAI_API_KEY` as your `OPEN_API_KEY` in the .env file, then you can run the programs.
 
 ```zsh
 python3 chatbot.py
@@ -30,4 +30,4 @@ python3 stream-audio.py
 
 ## License
 
-This project is licensed under the MIT License. See the ![LICENSE)(LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE)(LICENSE) file for details.
